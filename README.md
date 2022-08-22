@@ -1,10 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Álvaro!!!</h1>
 <h3 align="center">Um desenvolvedor Full Stack louco do interior de Minas!</h3>
 
-- 🔭 No momento estou trabalhando como Tech Lead na [JpDevs](https://www.linkedin.com/company/jpdevs/)
-
-- 👯 Atualmente colaboro como desenvolvedor no [Laboratório de Tecnologia Inova Lab UNA](https://inovalabunaco.animahub.com.br/home)
-
 - 📫 Para me contatar! **alvaroedusilva@yahoo.com**
 
 - ⚡ Fato interessante sobre mim! **Eu sou músico, toco viola caipira com amor e inspiração!**
